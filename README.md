@@ -1,2 +1,2 @@
 # GameDevelopment
-Machinie Problem of CS415
+Machine Problem of CS415
